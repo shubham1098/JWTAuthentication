@@ -1,0 +1,7 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+    background-image: url("https://www.marshallsindia.com/images/younique/nature/nature-cover-slider-6.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
